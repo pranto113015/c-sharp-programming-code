@@ -2,21 +2,3 @@
 bin/
 obj/
 
-# VS Code settings
-.vscode/
-
-# User-specific files
-*.user
-*.suo
-*.sln
-*.csproj
-
-# Auto-generated files
-*.generated.cs
-
-# Logs
-*.log
-
-# OS-specific files
-.DS_Store
-Thumbs.db
